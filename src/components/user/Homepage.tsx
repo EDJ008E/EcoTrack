@@ -10,7 +10,7 @@ export const UserHomepage: React.FC = () => {
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 bg-gradient-to-br from-emerald-500/20 to-blue-600/20 dark:from-emerald-900/40 dark:to-blue-900/40"></div>
         <img
-          src="src\components\user\image1.jpg"
+          src="https://imgs.search.brave.com/zh0HP8gNNAPLk0KKaDRsmP2_xCE5DmYvwYl7pLJdoGs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzEyLzMzLzMzLzc4/LzM2MF9GXzEyMzMz/Mzc4NjNfSFpQc3dm/dFJQNERUWkFQUkF6/YlJPNlBtRk1YczlR/MXAuanBn"
           alt="Clean Environment"
           className="w-full h-full object-cover opacity-30 dark:opacity-20"
         />

@@ -10,7 +10,7 @@ export const AdminHomepage: React.FC = () => {
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 bg-gradient-to-br from-blue-600/20 to-purple-600/20 dark:from-blue-900/40 dark:to-purple-900/40"></div>
         <img
-          src="src\components\admin\image2.jpg"
+          src="https://imgs.search.brave.com/_8-7JuoHjusrrd4oqsm2POpEUXCSqpEQIXih-Hj7ypg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzEyLzMxLzE3LzI1/LzM2MF9GXzEyMzEx/NzI1MTdfN0NRTmVn/bFNBWERrYnNhNWdC/bXQ3MGlra2VYaTVu/dUcuanBn"
           alt="Smart City Technology"
           className="w-full h-full object-cover opacity-30 dark:opacity-20"
         />
